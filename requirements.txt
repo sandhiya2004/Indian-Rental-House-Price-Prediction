@@ -1,0 +1,5 @@
+Install Core Libraries:
+conda install numpy matplotlib seaborn scikit-learn pandas
+Install xgboost:
+conda install -c conda-forge xgboost (or) pip install xgboost
+
