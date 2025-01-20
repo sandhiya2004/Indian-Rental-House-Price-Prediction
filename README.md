@@ -1,4 +1,4 @@
-# Indian-Rental-House-Price-Prediction
+# Indian Rental House Price Prediction
 
 ## Overview
 
@@ -37,6 +37,19 @@ This project predicts rental house prices in Indian cities like Delhi, Mumbai, a
   - Random Forest (R² Score: 0.9703)
   - K-Neighbors Regressor (R² Score: 0.9639)
 
+## Directory Structure
+
+```
+project_root/
+|-- data/
+|   |-- Indian_housing_Delhi_data.csv
+|   |-- Indian_housing_Mumbai_data.csv
+|   |-- Indian_housing_Pune_data.csv
+|-- end-to-end-indian-rental-houseing-price-prediction.ipynb
+|-- requirements.txt
+|-- README.md
+```
+
 ## How to Run
 
 1. Install dependencies:
@@ -54,7 +67,9 @@ This project predicts rental house prices in Indian cities like Delhi, Mumbai, a
 - Add more city data.
 - Explore deep learning models.
 
+
+
 ## Contact
 
-For queries, reach out to [Sandhiya K] at [kssandhiya23\@gmail.com].
+For queries, reach out to [Sandhiya K] at [[kssandhiya23@gmail.com](mailto\:kssandhiya23@gmail.com)].
 
